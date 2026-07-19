@@ -1,11 +1,36 @@
-/*
-=========================================================
-          SMART PARKING SYSTEM V2.0 FINAL
----------------------------------------------------------
-Developer : Roshan Kumar Sahu
-Board     : ESP32 Dev Module
-Version   : 3.0
-=========================================================
+/**************************************************************************
+ * Project Name :
+ * IoT Based Smart Parking Management System
+ *
+ * Author :
+ * Roshan Kumar Sahu
+ *
+ * College :
+ * Parala Maharaja Engineering College (PMEC)
+ *
+ * Department :
+ * Electronics & Telecommunication Engineering
+ *
+ * Platform :
+ * ESP32 DevKit V1
+ *
+ * IDE :
+ * Arduino IDE
+ *
+ * Description :
+ * An IoT-based Smart Parking Management System using ESP32 with
+ * real-time parking slot monitoring, automatic gate control,
+ * parking billing, parking history, Blynk IoT dashboard,
+ * and ThingSpeak cloud analytics.
+ *
+ * Technologies :
+ * ESP32
+ * Arduino
+ * Blynk IoT
+ * ThingSpeak
+ * C++
+ 
+ **************************************************************************/
 */
 //=========================================================
 // BLYNK
