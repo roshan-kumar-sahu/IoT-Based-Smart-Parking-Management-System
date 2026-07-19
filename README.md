@@ -12,7 +12,7 @@ This project provides a smart solution for parking management by automatically d
 
 # 📷 Project Prototype
 
-![Project Prototype](Images/project.jpg)
+![Project Prototype](Images/PROJECT_IMAGE.jpeg)
 
 ---
 
@@ -64,15 +64,27 @@ This project provides a smart solution for parking management by automatically d
 
 ---
 
-# 📊 Blynk Dashboard
+# 📊 Blynk Web Dashboard
 
-![Blynk Dashboard](Images/blynk_dashboard.png)
+![Blynk Web Dashboard](Images/BLYNK_IOT_WEB_DASHBOARD.png)
+
+---
+
+# 📊 Blynk Mobile Dashboard
+
+![Blynk Mobile Dashboard](Images/BLYNK_IOT_MOBILE_DASHBOARD.png)
 
 ---
 
 # ☁️ ThingSpeak Dashboard
 
-![ThingSpeak Dashboard](Images/thingspeak.png)
+![ThingSpeak Dashboard](Images/THINGSPEAK_PAGE_1.png)
+
+
+![ThingSpeak Dashboard](Images/THINGSPEAK_PAGE_2.png)
+
+
+![ThingSpeak Dashboard](Images/THINGSPEAK_PAGE_3.png)
 
 ---
 
