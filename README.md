@@ -72,7 +72,7 @@ This project provides a smart solution for parking management by automatically d
 
 # 📊 Blynk Mobile Dashboard
 
-![Blynk Mobile Dashboard](Images/BLYNK_IOT_MOBILE_DASHBOARD.png)
+![Blynk Mobile Dashboard](Images/BLYNK_IOT_MOBILE_DASHBOARD.jpeg)
 
 ---
 
@@ -90,7 +90,7 @@ This project provides a smart solution for parking management by automatically d
 
 # 🔄 System Flowchart
 
-![Flowchart](Images/flowchart.png)
+![Flowchart](Images/FINAL_FLOW_CHAT.png)
 
 ---
 
