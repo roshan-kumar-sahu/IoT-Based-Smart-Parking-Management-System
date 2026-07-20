@@ -58,12 +58,6 @@ This project provides a smart solution for parking management by automatically d
 
 ---
 
-# 🔌 Circuit Diagram
-
-![Circuit Diagram](Images/circuit_diagram.png)
-
----
-
 # 📊 Blynk Web Dashboard
 
 ![Blynk Web Dashboard](Images/BLYNK_IOT_WEB_DASHBOARD.png)
@@ -124,7 +118,8 @@ IoT-Based-Smart-Parking-Management-System
    - Blynk Auth Token
    - ThingSpeak API Key
 6. Upload the code to ESP32
-7. Power the hardware and monitor the dashboard.
+7. Power the hardware and monitor the dashboard
+8. Give 5v external voltage to I2C LCD display and servo motor
 
 ---
 
@@ -146,7 +141,7 @@ IoT-Based-Smart-Parking-Management-System
 
 Electronics & Telecommunication Engineering
 
-Parala Maharaja Engineering College (PMEC)
+Parala Maharaja Engineering College (PMEC),Berhampur
 
 ---
 
