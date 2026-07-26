@@ -86,6 +86,9 @@ This project provides a smart solution for parking management by automatically d
 - C++
 
 ---
+# 📊 System Architecture Diagram
+
+![System Architecture Diagram](Images/SYSTEM_ARCHITECTURE.png)
 
 # 📊 Blynk Web Dashboard
 
