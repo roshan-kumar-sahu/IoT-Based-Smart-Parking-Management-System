@@ -34,9 +34,16 @@ and mobile dashboard integration using <b>Blynk IoT</b> and <b>ThingSpeak</b>.
 - [📌 Project Overview](#-project-overview)
 - [📷 Project Prototype](#-project-prototype)
 - [⚡ Features](#-features)
+- [📋 Project Specifications](#-project-specifications)
 - [🛠️ Hardware Components](#️-hardware-components)
-- [💻 Software Used](#-software-used)
+- [💰 Approximate Project Cost](#-approximate-project-cost)
+- [🔌 ESP32 GPIO Pin Mapping](#-esp32-gpio-pin-mapping)
+- [🔧 Circuit Diagram](#-circuit-diagram)
+- [🔌 Circuit Connections](#-circuit-connections)
+- [💻 Software & Development Environment](#-software--development-environment)
+- [📦 Required Arduino Libraries](#-required-arduino-libraries)
 - [🏗️ System Architecture](#-system-architecture-diagram)
+- [⚙️ Working Principle](#️-working-principle)
 - [📊 Blynk Web Dashboard](#-blynk-web-dashboard)
 - [📱 Blynk Mobile Dashboard](#-blynk-mobile-dashboard)
 - [☁️ ThingSpeak Dashboard](#️-thingspeak-dashboard)
@@ -233,29 +240,8 @@ Before uploading the code to the ESP32, install the following libraries through 
 ![System Architecture Diagram](Images/SYSTEM_ARCHITECTURE.png)
 > The architecture illustrates how the ESP32 communicates with sensors, actuators, cloud platforms, and the user dashboard.
 
-# 📊 Blynk Web Dashboard
-
-![Blynk Web Dashboard](Images/BLYNK_IOT_WEB_DASHBOARD.png)
-
 ---
 
-# 📊 Blynk Mobile Dashboard
-
-![Blynk Mobile Dashboard](Images/BLYNK_IOT_MOBILE_DASHBOARD.jpeg)
-
----
-
-# ☁️ ThingSpeak Dashboard
-
-![ThingSpeak Dashboard](Images/THINGSPEAK_PAGE_1.png)
-
-
-![ThingSpeak Dashboard](Images/THINGSPEAK_PAGE_2.png)
-
-
-![ThingSpeak Dashboard](Images/THINGSPEAK_PAGE_3.png)
-
----
 # ⚙️ Working Principle
 
 The Smart Parking Management System operates through the following sequence:
@@ -302,19 +288,63 @@ The Smart Parking Management System operates through the following sequence:
 > Complete operational workflow of the Smart Parking Management System.
 ---
 
+# 📊 Blynk Web Dashboard
+
+![Blynk Web Dashboard](Images/BLYNK_IOT_WEB_DASHBOARD.png)
+
+---
+
+# 📊 Blynk Mobile Dashboard
+
+![Blynk Mobile Dashboard](Images/BLYNK_IOT_MOBILE_DASHBOARD.jpeg)
+
+---
+
+# ☁️ ThingSpeak Dashboard
+
+![ThingSpeak Dashboard](Images/THINGSPEAK_PAGE_1.png)
+
+
+![ThingSpeak Dashboard](Images/THINGSPEAK_PAGE_2.png)
+
+
+![ThingSpeak Dashboard](Images/THINGSPEAK_PAGE_3.png)
+
+---
+
 # 📂 Project Structure
 
-```
+```text
 IoT-Based-Smart-Parking-Management-System
 │
-├── Images
-├── Source_Code
-├── Documentation
-├── Flowchart
+├── 📁 Images
+│   ├── PROJECT_BANNER_2.png
+│   ├── PROJECT_IMAGE.jpeg
+│   ├── CIRCUIT_DIAGRAM.png
+│   ├── SYSTEM_ARCHITECTURE.png
+│   ├── FINAL_FLOW_CHAT.png
+│   ├── BLYNK_IOT_WEB_DASHBOARD.png
+│   ├── BLYNK_IOT_MOBILE_DASHBOARD.jpeg
+│   ├── THINGSPEAK_PAGE_1.png
+│   ├── THINGSPEAK_PAGE_2.png
+│   └── THINGSPEAK_PAGE_3.png
+│
+├── 📁 Source_Code
+│   └── Smart_Parking_Management_System.ino
+│
+├── 📁 Documentation
+│   ├── Project_Report.pdf
+│   ├── Circuit_Explanation.pdf
+│   ├── Presentation.pptx
+│   └── Bill_of_Materials.xlsx
+│
+├── 📁 Flowchart
+│   └── System_Flowchart.drawio
+│
 ├── README.md
-└── LICENSE
+├── LICENSE
+└── .gitignore
 ```
-
 ---
 
 # 🚀 How to Run
