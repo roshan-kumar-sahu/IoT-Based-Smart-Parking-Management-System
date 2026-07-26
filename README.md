@@ -1,4 +1,5 @@
 # 🚗 IoT Based Smart Parking Management System
+An IoT-enabled Smart Parking Management System developed using ESP32 for real-time parking slot monitoring, automatic gate control, parking billing, cloud analytics, and mobile dashboard monitoring using Blynk IoT and ThingSpeak.
 # 📷 Project Banner
 
 <p align="center">
@@ -20,6 +21,12 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 </p>
+
+<h3 align="center">
+
+🏆 First Prize Winner – Internship Project Competition 2026
+
+</h3>
 --
 
 An **IoT-enabled Smart Parking Management System** developed using **ESP32**, designed to automate vehicle entry/exit, monitor parking slot occupancy in real time, and provide cloud-based monitoring through **Blynk IoT** and **ThingSpeak**.
