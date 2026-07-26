@@ -5,6 +5,21 @@
   <img src="Images/PROJECT_BANNER_2.png" width="100%">
 </p>
 
+<p align="center">
+
+![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white)
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+![Blynk](https://img.shields.io/badge/Blynk-IoT-green?style=for-the-badge)
+
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-MATLAB-red?style=for-the-badge)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
+![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+</p>
 --
 
 An **IoT-enabled Smart Parking Management System** developed using **ESP32**, designed to automate vehicle entry/exit, monitor parking slot occupancy in real time, and provide cloud-based monitoring through **Blynk IoT** and **ThingSpeak**.
