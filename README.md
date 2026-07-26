@@ -5,8 +5,6 @@
   <img src="Images/PROJECT_BANNER_2.png" width="100%">
 </p>
 
-![Project Banner](Images/PROJECT_BANNER_2.png)
-
 --
 
 An **IoT-enabled Smart Parking Management System** developed using **ESP32**, designed to automate vehicle entry/exit, monitor parking slot occupancy in real time, and provide cloud-based monitoring through **Blynk IoT** and **ThingSpeak**.
