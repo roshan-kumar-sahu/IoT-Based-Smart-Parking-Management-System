@@ -1,6 +1,10 @@
 # 🚗 IoT Based Smart Parking Management System
 # 📷 Project Banner
 
+<p align="center">
+  <img src="Images/PROJECT_BANNER_2.png" width="100%">
+</p>
+
 ![Project Banner](Images/PROJECT_BANNER_2.png)
 
 --
