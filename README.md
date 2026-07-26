@@ -1,6 +1,5 @@
 # 🚗 IoT Based Smart Parking Management System
 An IoT-enabled Smart Parking Management System developed using ESP32 for real-time parking slot monitoring, automatic gate control, parking billing, cloud analytics, and mobile dashboard monitoring using Blynk IoT and ThingSpeak.
-# 📷 Project Banner
 
 <p align="center">
   <img src="Images/PROJECT_BANNER_2.png" width="100%">
@@ -8,17 +7,17 @@ An IoT-enabled Smart Parking Management System developed using ESP32 for real-ti
 
 <p align="center">
 
-![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white)
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
-![Blynk](https://img.shields.io/badge/Blynk-IoT-green?style=for-the-badge)
+<img src="https://img.shields.io/badge/Blynk-IoT-23C48E?style=for-the-badge"/>
 
-![ThingSpeak](https://img.shields.io/badge/ThingSpeak-MATLAB-red?style=for-the-badge)
+<img src="https://img.shields.io/badge/ThingSpeak-MATLAB-D9534F?style=for-the-badge"/>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
 
 </p>
 
@@ -43,6 +42,7 @@ This project provides a smart solution for parking management by automatically d
 
 ![Project Prototype](Images/PROJECT_IMAGE.jpeg)
 
+> Final Working Prototype during Internship Project Demonstration
 ---
 
 # ⚡ Features
