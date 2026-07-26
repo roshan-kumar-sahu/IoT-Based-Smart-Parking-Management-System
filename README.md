@@ -49,10 +49,6 @@ and mobile dashboard integration using <b>Blynk IoT</b> and <b>ThingSpeak</b>.
 
 ---
 
-An **IoT-enabled Smart Parking Management System** developed using **ESP32**, designed to automate vehicle entry/exit, monitor parking slot occupancy in real time, and provide cloud-based monitoring through **Blynk IoT** and **ThingSpeak**.
-
----
-
 ## 📌 Project Overview
 
 Parking management is one of the major challenges in shopping malls, offices, universities, hospitals, and smart cities due to inefficient space utilization and the lack of real-time parking information.
@@ -79,8 +75,8 @@ The system also includes an intelligent parking billing mechanism based on parki
 # 📷 Project Prototype
 
 ![Project Prototype](Images/PROJECT_IMAGE.jpeg)
-
-> Final Working Prototype during Internship Project Demonstration
+> Final hardware prototype developed during the internship project.
+> Final Working Prototype during Internship Project Demonstration.
 ---
 
 # ⚡ Features
@@ -99,24 +95,7 @@ The system also includes an intelligent parking billing mechanism based on parki
 - ⚙️ Non-Blocking State Machine Programming
 
 ---
-# 📚 Table of Contents
 
-- Project Overview
-- Features
-- Hardware Components
-- Software Used
-- System Architecture
-- Prototype
-- Blynk Dashboard
-- ThingSpeak Dashboard
-- Flowchart
-- Folder Structure
-- Installation
-- Future Scope
-- Author
-- License
-
----
 # 📋 Project Specifications
 
 | Category | Details |
@@ -169,7 +148,7 @@ The system also includes an intelligent parking billing mechanism based on parki
 | Miscellaneous | 200 |
 
 ### **Total Estimated Cost : ₹1,820**
-
+> **Note:** The cost is approximate and may vary depending on component availability and supplier pricing.
 ---
 
 # 🔌 ESP32 GPIO Pin Mapping
@@ -252,6 +231,7 @@ Before uploading the code to the ESP32, install the following libraries through 
 # 📊 System Architecture Diagram
 
 ![System Architecture Diagram](Images/SYSTEM_ARCHITECTURE.png)
+> The architecture illustrates how the ESP32 communicates with sensors, actuators, cloud platforms, and the user dashboard.
 
 # 📊 Blynk Web Dashboard
 
@@ -319,7 +299,7 @@ The Smart Parking Management System operates through the following sequence:
 # 🔄 System Flowchart
 
 ![Flowchart](Images/FINAL_FLOW_CHAT.png)
-
+> Complete operational workflow of the Smart Parking Management System.
 ---
 
 # 📂 Project Structure
@@ -353,7 +333,7 @@ IoT-Based-Smart-Parking-Management-System
    - ThingSpeak API Key
 6. Upload the code to ESP32
 7. Power the hardware and monitor the dashboard
-8. Give 5v external voltage to I2C LCD display and servo motor
+8. Power the SG90 Servo Motor and the 16×2 I2C LCD using an external regulated 5V DC supply while maintaining a common ground with the ESP32.
 
 ---
 
@@ -368,11 +348,6 @@ IoT-Based-Smart-Parking-Management-System
 - Firebase Database Integration
 
 ---
-## 🎥 Project Demonstration
-
-Watch the complete working demonstration of the project.
-
-▶️ YouTube Demo Link
 
 # 👨‍💻 Author
 
